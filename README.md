@@ -33,6 +33,9 @@
 - https://gitter.im/hyperledger-iroha/Lobby    (Hyperledger iroha help)
 - https://gitter.im/ethereum/casper-scaling-and-protocol-economics    (Casper2 channel)
 - https://gitter.im/WebOfTrustInfo/rebooting-the-web-of-trust  (Proposals and catalogue related to building web of trust)
-- 
+
+## Security related stuffs:
+
+- https://blog.detectify.com/2016/05/01/owasp/
 
 
