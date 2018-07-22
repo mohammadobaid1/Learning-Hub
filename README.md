@@ -14,6 +14,8 @@
 - Casper Alpha FFG testnet instructions (https://notes.ethereum.org/zazJPIQSQL2u0pI0K1RShg#)
 - EOS EOS: Goddess of the Crypto Dawn (https://hackernoon.com/eos-goddess-of-the-crypto-dawn-4b2959c03a35)
 - EOS official resources (https://eos.io/resources#eosio)
+- EOS whitepaper (https://eos.io/documents/EOS_An_Introduction.pdf)
+- EOS technical whitepaper v2 (https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md#background)
 
 ## Gitter Chatrooms :
 
