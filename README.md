@@ -13,4 +13,26 @@
 - Ethereum casper validator guide (https://github.com/ethereum/casper/blob/master/VALIDATOR_GUIDE.md)
 - Casper Alpha FFG testnet instructions (https://notes.ethereum.org/zazJPIQSQL2u0pI0K1RShg#)
 
+## Gitter Chatrooms :
+
+- https://gitter.im/ethereum/casper  (Ethereum Casper)
+- https://gitter.im/ethereum/go-ethereum  (Ethereum Go)
+- https://gitter.im/ethereum/web3.js (web3 channel related to ethereum)
+- https://gitter.im/LiskHQ/lisk   (Lisk Blockchain)
+- https://gitter.im/ng2-admin/Lobby   (Angular ng2-admin channel)
+- https://gitter.im/ConsenSys/truffle  (Truffle framework channel)
+- https://gitter.im/bigchaindb/bigchaindb  (Bigchaindb channel)
+- https://gitter.im/angular/angular   (Angular channel)
+- https://gitter.im/angular/angular-2-ionic-2   (Angular2 ionic2 channel)
+- https://gitter.im/nodejs/node   (Node channel)
+- https://gitter.im/ethereum/solidity   (Ethereum solidity channel)
+- https://gitter.im/MetaMask/Lobby   (Metamask help)
+- https://gitter.im/ansible/ansible   (Ansible help)
+- https://gitter.im/aspnet/Home   (Asp.net)
+- https://gitter.im/aspnet/Mvc    (Asp.net mvc specific)
+- https://gitter.im/hyperledger-iroha/Lobby    (Hyperledger iroha help)
+- https://gitter.im/ethereum/casper-scaling-and-protocol-economics    (Casper2 channel)
+- https://gitter.im/WebOfTrustInfo/rebooting-the-web-of-trust  (Proposals and catalogue related to building web of trust)
+- 
+
 
