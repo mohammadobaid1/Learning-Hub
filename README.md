@@ -12,6 +12,8 @@
 - Ethereum casper installation via docker (https://github.com/tpmccallum/ethereum_casper_testnet_ubuntu_installation)
 - Ethereum casper validator guide (https://github.com/ethereum/casper/blob/master/VALIDATOR_GUIDE.md)
 - Casper Alpha FFG testnet instructions (https://notes.ethereum.org/zazJPIQSQL2u0pI0K1RShg#)
+- EOS EOS: Goddess of the Crypto Dawn (https://hackernoon.com/eos-goddess-of-the-crypto-dawn-4b2959c03a35)
+- EOS official resources (https://eos.io/resources#eosio)
 
 ## Gitter Chatrooms :
 
@@ -33,6 +35,13 @@
 - https://gitter.im/hyperledger-iroha/Lobby    (Hyperledger iroha help)
 - https://gitter.im/ethereum/casper-scaling-and-protocol-economics    (Casper2 channel)
 - https://gitter.im/WebOfTrustInfo/rebooting-the-web-of-trust  (Proposals and catalogue related to building web of trust)
+
+## Blogs :
+
+## Videos :
+Dan Larimer: EOS - The Decentralized Operating System (https://www.youtube.com/watch?v=eftctVXiFJQ)
+
+
 
 ## Security related stuffs:
 
