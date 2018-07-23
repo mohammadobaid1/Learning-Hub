@@ -20,6 +20,7 @@
 - EOS whitepaper (https://eos.io/documents/EOS_An_Introduction.pdf)
 - EOS technical whitepaper v2 (https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md#background)
 - Blockchain specific tasks freelance (https://bountyone.io/hackathons)
+- Openzeppelin solidity contracts  (https://github.com/mohammadobaid1/openzeppelin-solidity)
 
 
 ## Magento Resources :
@@ -47,6 +48,7 @@
 - https://gitter.im/ethereum/casper-scaling-and-protocol-economics    (Casper2 channel)
 - https://gitter.im/WebOfTrustInfo/rebooting-the-web-of-trust  (Proposals and catalogue related to building web of trust)
 - Hyperledger blockchain devs chat (https://chat.hyperledger.org/)
+- Openzeppelin chatroom (https://slack.openzeppelin.org/)
 
 ## Blogs :
 
