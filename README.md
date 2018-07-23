@@ -7,6 +7,10 @@
 2- mysql installation on aws ubuntu 16.04 (https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-16-04)
 
 
+## Javascript :
+
+- Node js json to csv converter (https://github.com/adaltas/node-csv-stringify)
+- Example of converting json to csv in node js (https://stackoverflow.com/questions/38244285/how-to-convert-json-array-to-csv-using-node-js)
 ## Blockchain Resources:
 - Ethereum Casper 101 (https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0)
 - Ethereum casper installation via docker (https://github.com/tpmccallum/ethereum_casper_testnet_ubuntu_installation)
