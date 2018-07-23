@@ -46,6 +46,7 @@
 - https://gitter.im/hyperledger-iroha/Lobby    (Hyperledger iroha help)
 - https://gitter.im/ethereum/casper-scaling-and-protocol-economics    (Casper2 channel)
 - https://gitter.im/WebOfTrustInfo/rebooting-the-web-of-trust  (Proposals and catalogue related to building web of trust)
+- Hyperledger blockchain devs chat (https://chat.hyperledger.org/)
 
 ## Blogs :
 
