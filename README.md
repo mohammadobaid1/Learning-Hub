@@ -16,6 +16,7 @@
 - EOS official resources (https://eos.io/resources#eosio)
 - EOS whitepaper (https://eos.io/documents/EOS_An_Introduction.pdf)
 - EOS technical whitepaper v2 (https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md#background)
+- Blockchain specific tasks freelance (https://bountyone.io/hackathons)
 
 ## Gitter Chatrooms :
 
