@@ -26,7 +26,7 @@
 - Magento2 installation on Linux (https://cloudkul.com/blog/magento-2-1-x-installation-linux-ubuntu/)
 - Magmi Importer (https://aionhill.com/product-import-magmi)
 
-## Gitter Chatrooms :
+## Chatrooms :
 
 - https://gitter.im/ethereum/casper  (Ethereum Casper)
 - https://gitter.im/ethereum/go-ethereum  (Ethereum Go)
