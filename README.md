@@ -18,6 +18,11 @@
 - EOS technical whitepaper v2 (https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md#background)
 - Blockchain specific tasks freelance (https://bountyone.io/hackathons)
 
+
+## Magento Resources :
+- Magento2 installation on Linux (https://cloudkul.com/blog/magento-2-1-x-installation-linux-ubuntu/)
+- Magmi Importer (https://aionhill.com/product-import-magmi)
+
 ## Gitter Chatrooms :
 
 - https://gitter.im/ethereum/casper  (Ethereum Casper)
