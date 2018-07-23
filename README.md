@@ -51,6 +51,8 @@
 - Openzeppelin chatroom (https://slack.openzeppelin.org/)
 
 ## Blogs :
+- The Anatomy of ERC721 ( https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24 )
+
 
 ## Videos :
 Dan Larimer: EOS - The Decentralized Operating System (https://www.youtube.com/watch?v=eftctVXiFJQ)
