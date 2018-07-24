@@ -66,5 +66,6 @@ Dan Larimer: EOS - The Decentralized Operating System (https://www.youtube.com/w
 ## Security related stuffs:
 
 - https://blog.detectify.com/2016/05/01/owasp/
+- Bugcrowd channel (Bughunting techniques and secrity stuffs) (https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww)
 
 
