@@ -54,6 +54,9 @@
 - Hyperledger blockchain devs chat (https://chat.hyperledger.org/)
 - Openzeppelin chatroom (https://slack.openzeppelin.org/)
 
+## Git :
+- Change remote url of repository (https://confluence.atlassian.com/bitbucket/change-the-remote-url-to-your-repository-794212774.html)
+
 ## General Blogs :
 
 
