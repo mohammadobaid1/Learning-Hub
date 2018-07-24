@@ -23,7 +23,7 @@
 - Openzeppelin solidity contracts  (https://github.com/mohammadobaid1/openzeppelin-solidity)
 - Ethereum token allowance method explaination (https://tokenallowance.io/)
 - Casper vs tendermint (https://blog.cosmos.network/consensus-compare-casper-vs-tendermint-6df154ad56ae)
-
+- - The Anatomy of ERC721 ( https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24 )
 
 ## Magento Resources :
 - Magento2 installation on Linux (https://cloudkul.com/blog/magento-2-1-x-installation-linux-ubuntu/)
@@ -52,8 +52,8 @@
 - Hyperledger blockchain devs chat (https://chat.hyperledger.org/)
 - Openzeppelin chatroom (https://slack.openzeppelin.org/)
 
-## Blogs :
-- The Anatomy of ERC721 ( https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24 )
+## General Blogs :
+
 
 
 ## Videos :
