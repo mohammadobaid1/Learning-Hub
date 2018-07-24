@@ -25,6 +25,7 @@
 - Casper vs tendermint (https://blog.cosmos.network/consensus-compare-casper-vs-tendermint-6df154ad56ae)
 - The Anatomy of ERC721 ( https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24 )
 - Proof of stake resources (https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/proof-of-stake_resources.html)
+- Smart contract guide (https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 
 ## Magento Resources :
 - Magento2 installation on Linux (https://cloudkul.com/blog/magento-2-1-x-installation-linux-ubuntu/)
