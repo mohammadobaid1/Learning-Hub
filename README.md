@@ -21,6 +21,7 @@
 - EOS technical whitepaper v2 (https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md#background)
 - Blockchain specific tasks freelance (https://bountyone.io/hackathons)
 - Openzeppelin solidity contracts  (https://github.com/mohammadobaid1/openzeppelin-solidity)
+- Ethereum tokenallowance method explaination (https://tokenallowance.io/)
 
 
 ## Magento Resources :
