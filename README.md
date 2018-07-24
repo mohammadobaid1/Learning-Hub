@@ -10,6 +10,9 @@
 
 - Node js json to csv converter (https://github.com/adaltas/node-csv-stringify)
 - Example of converting json to csv in node js (https://stackoverflow.com/questions/38244285/how-to-convert-json-array-to-csv-using-node-js)
+- Js beautifer (jsbeautifier.org)
+- Link finder (Fetches links and api urls from javascript file ) (https://github.com/GerbenJavado/LinkFinder/tree/chrome_extension)
+
 ## Blockchain Resources:
 - Ethereum Casper 101 (https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0)
 - Ethereum casper installation via docker (https://github.com/tpmccallum/ethereum_casper_testnet_ubuntu_installation)
@@ -26,6 +29,10 @@
 - The Anatomy of ERC721 ( https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24 )
 - Proof of stake resources (https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/proof-of-stake_resources.html)
 - Smart contract guide (https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
+- Ethereum smart contract integeration with web3.js (https://medium.com/coinmonks/a-really-simple-smart-contract-on-how-to-insert-value-into-the-ethereum-blockchain-and-display-it-62c455610e98)
+- Token on Stellar blockchain (https://www.stellar.org/blog/tokens-on-stellar/)
+- Custom tokens on stellar (https://hackernoon.com/how-to-make-a-custom-token-on-stellar-ae5296512a2e)
+- 
 
 ## Magento Resources :
 - Magento2 installation on Linux (https://cloudkul.com/blog/magento-2-1-x-installation-linux-ubuntu/)
@@ -58,7 +65,7 @@
 - Change remote url of repository (https://confluence.atlassian.com/bitbucket/change-the-remote-url-to-your-repository-794212774.html)
 
 ## General Blogs :
-
+- Vitalik on cryptoeconomics (https://medium.com/conversations-with-tyler/vitalik-buterin-tyler-cowen-cryptocurrency-blockchain-tech-3a2b20c12c97)
 
 
 ## Videos :
@@ -70,5 +77,6 @@ Dan Larimer: EOS - The Decentralized Operating System (https://www.youtube.com/w
 
 - https://blog.detectify.com/2016/05/01/owasp/
 - Bugcrowd channel (Bughunting techniques and secrity stuffs) (https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww)
+- Ethical hacking course (https://mega.nz/#F!u3xFVDJC!BGiXeUpeVpdZYr1cpG39zA!quwjRA5Y)
 
 
