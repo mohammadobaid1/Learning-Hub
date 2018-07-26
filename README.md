@@ -13,6 +13,9 @@
 - Js beautifer (jsbeautifier.org)
 - Link finder (Fetches links and api urls from javascript file ) (https://github.com/GerbenJavado/LinkFinder/tree/chrome_extension)
 
+##Useful Packages:
+-  Sublimde 3 custom themes  (https://packagecontrol.io/packages/Colorsublime)
+
 ## Blockchain Resources:
 - Ethereum Casper 101 (https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0)
 - Ethereum casper installation via docker (https://github.com/tpmccallum/ethereum_casper_testnet_ubuntu_installation)
