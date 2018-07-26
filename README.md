@@ -36,6 +36,7 @@
 - Ethereum smart contract integeration with web3.js (https://medium.com/coinmonks/a-really-simple-smart-contract-on-how-to-insert-value-into-the-ethereum-blockchain-and-display-it-62c455610e98)
 - Token on Stellar blockchain (https://www.stellar.org/blog/tokens-on-stellar/)
 - Custom tokens on stellar (https://hackernoon.com/how-to-make-a-custom-token-on-stellar-ae5296512a2e)
+- Purpose of transferfrom function in ERC20 token (https://ethereum.stackexchange.com/questions/50239/where-is-the-approve-and-transferfrom-used)
  
 
 ## Magento Resources :
