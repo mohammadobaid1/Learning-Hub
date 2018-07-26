@@ -32,10 +32,11 @@
 - The Anatomy of ERC721 ( https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24 )
 - Proof of stake resources (https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/proof-of-stake_resources.html)
 - Smart contract guide (https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
+- ERC20 token tutorial (https://programtheblockchain.com/posts/2018/01/30/writing-an-erc20-token-contract/)
 - Ethereum smart contract integeration with web3.js (https://medium.com/coinmonks/a-really-simple-smart-contract-on-how-to-insert-value-into-the-ethereum-blockchain-and-display-it-62c455610e98)
 - Token on Stellar blockchain (https://www.stellar.org/blog/tokens-on-stellar/)
 - Custom tokens on stellar (https://hackernoon.com/how-to-make-a-custom-token-on-stellar-ae5296512a2e)
-- 
+ 
 
 ## Magento Resources :
 - Magento2 installation on Linux (https://cloudkul.com/blog/magento-2-1-x-installation-linux-ubuntu/)
