@@ -13,6 +13,7 @@
 - Js beautifer (jsbeautifier.org)
 - Link finder (Fetches links and api urls from javascript file ) (https://github.com/GerbenJavado/LinkFinder/tree/chrome_extension)
 - Angular4 Form tutorial(https://codecraft.tv/courses/angular/forms/submitting-and-resetting/)
+- Basic Angular4 form boilerplate code (https://gist.github.com/mohammadobaid1/187fb26c9831fa4fdeef33ee384e3157)
 
 ## Useful Packages:
 -  Sublime 3 custom themes  (https://packagecontrol.io/packages/Colorsublime)
