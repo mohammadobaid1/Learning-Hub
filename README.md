@@ -85,5 +85,7 @@ Dan Larimer: EOS - The Decentralized Operating System (https://www.youtube.com/w
 - https://blog.detectify.com/2016/05/01/owasp/
 - Bugcrowd channel (Bughunting techniques and secrity stuffs) (https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww)
 - Ethical hacking course (https://mega.nz/#F!u3xFVDJC!BGiXeUpeVpdZYr1cpG39zA!quwjRA5Y)
+- Smart contract security game challanges
+(https://ethernaut.zeppelin.solutions/level/0xdf51a9e8ce57e7787e4a27dd19880fd7106b9a5c)
 
 
