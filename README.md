@@ -16,6 +16,7 @@
 - Basic Angular4 form boilerplate code (https://gist.github.com/mohammadobaid1/187fb26c9831fa4fdeef33ee384e3157)
 - Request package to call external api's in node js (https://www.npmjs.com/package/request#forms)
 - jsontocsv npm package (https://www.npmjs.com/package/json2csv)
+- filter json data based on keys(https://stackoverflow.com/a/51611593/4960275)
 
 ## Useful Packages:
 -  Sublime 3 custom themes  (https://packagecontrol.io/packages/Colorsublime)
