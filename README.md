@@ -22,6 +22,7 @@
 -  Sublime 3 custom themes  (https://packagecontrol.io/packages/Colorsublime)
 
 ## Blockchain Resources:
+- Various blockchain activity (http://blocktivity.info/)
 - Ethereum Casper 101 (https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0)
 - Ethereum casper installation via docker (https://github.com/tpmccallum/ethereum_casper_testnet_ubuntu_installation)
 - Ethereum casper validator guide (https://github.com/ethereum/casper/blob/master/VALIDATOR_GUIDE.md)
