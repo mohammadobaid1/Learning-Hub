@@ -93,5 +93,5 @@ Dan Larimer: EOS - The Decentralized Operating System (https://www.youtube.com/w
 - Ethical hacking course (https://mega.nz/#F!u3xFVDJC!BGiXeUpeVpdZYr1cpG39zA!quwjRA5Y)
 - Smart contract security game challanges
 (https://ethernaut.zeppelin.solutions/level/0xdf51a9e8ce57e7787e4a27dd19880fd7106b9a5c)
-
+-  Payloads related to xss and other security stuffs (https://github.com/swisskyrepo/PayloadsAllTheThings)
 
