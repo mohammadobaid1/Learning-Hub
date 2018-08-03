@@ -79,6 +79,7 @@
 
 ## General Blogs :
 - Vitalik on cryptoeconomics (https://medium.com/conversations-with-tyler/vitalik-buterin-tyler-cowen-cryptocurrency-blockchain-tech-3a2b20c12c97)
+- Web development roadmap 2018 (https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 
 
 ## Videos :
