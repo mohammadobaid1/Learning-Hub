@@ -47,7 +47,11 @@
 - Try out Ethereum using only nodejs and npm! (https://medium.com/@codetractio/try-out-ethereum-using-only-nodejs-and-npm-eabaaaf97c80)
 - Introduction to IPFS (https://hackernoon.com/a-beginners-guide-to-ipfs-20673fedd3f)  
 - IPFS high level technical guide (https://medium.com/@ConsenSys/an-introduction-to-ipfs-9bba4860abd0)
--  IPFS paper (https://gateway.ipfs.io/ipfs/QmV9tSDx9UiPeWExXEeH6aoDvmihvx6jD5eLb4jbTaKGps)
+- IPFS paper (https://gateway.ipfs.io/ipfs/QmV9tSDx9UiPeWExXEeH6aoDvmihvx6jD5eLb4jbTaKGps)
+- query bitcoin via api's call online (http://chainquery.com)
+- Bitcoin tools to gather some stats (https://github.com/sr-gi/bitcoin_tools/tree/dev)
+- Realtime bitcoin node stats (https://statoshi.info/)
+- 
 ## Magento Resources :
 - Magento2 installation on Linux (https://cloudkul.com/blog/magento-2-1-x-installation-linux-ubuntu/)
 - Magmi Importer (https://aionhill.com/product-import-magmi)
