@@ -19,6 +19,8 @@
 - filter json data based on keys(https://stackoverflow.com/a/51611593/4960275)
 - ng book for angular6 (https://github.com/zfynote/ng2-book)
 - Difference between NgForm and FormControl (https://stackoverflow.com/questions/48144176/differences-between-ngform-and-formcontrol)
+- Angular online editor (https://stackblitz.com/)
+- Angular chromedev tool (https://augury.angular.io/)
 ## Useful Packages:
 -  Sublime 3 custom themes  (https://packagecontrol.io/packages/Colorsublime)
 
