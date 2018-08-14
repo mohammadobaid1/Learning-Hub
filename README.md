@@ -88,6 +88,8 @@
 - Vitalik on cryptoeconomics (https://medium.com/conversations-with-tyler/vitalik-buterin-tyler-cowen-cryptocurrency-blockchain-tech-3a2b20c12c97)
 - Web development roadmap 2018 (https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 -https://hackernoon.com/why-the-crypto-dream-does-not-work-for-now-f561fc21784
+- crypto-trader's diary (https://hackernoon.com/crypto-traders-diary/home)
+- Do you really need a blockchain for that ? (https://coincenter.org/entry/do-you-really-need-a-blockchain-for-that)
 
 
 ## Videos :
@@ -103,4 +105,5 @@ Dan Larimer: EOS - The Decentralized Operating System (https://www.youtube.com/w
 - Smart contract security game challanges
 (https://ethernaut.zeppelin.solutions/level/0xdf51a9e8ce57e7787e4a27dd19880fd7106b9a5c)
 -  Payloads related to xss and other security stuffs (https://github.com/swisskyrepo/PayloadsAllTheThings)
+- Sn1per tool (https://github.com/1N3/Sn1per)
 
