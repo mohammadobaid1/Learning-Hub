@@ -21,6 +21,7 @@
 - Difference between NgForm and FormControl (https://stackoverflow.com/questions/48144176/differences-between-ngform-and-formcontrol)
 - Angular online editor (https://stackblitz.com/)
 - Angular chromedev tool (https://augury.angular.io/)
+- ngx-datatable (https://swimlane.gitbook.io/ngx-datatable/themeing)
 ## Useful Packages:
 -  Sublime 3 custom themes  (https://packagecontrol.io/packages/Colorsublime)
 
