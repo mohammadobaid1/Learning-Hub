@@ -54,7 +54,8 @@
 - query bitcoin via api's call online (http://chainquery.com)
 - Bitcoin tools to gather some stats (https://github.com/sr-gi/bitcoin_tools/tree/dev)
 - Realtime bitcoin node stats (https://statoshi.info/)
-- 
+- Shoecard whitepaper (http://shocard.com/wp-content/uploads/2018/01/ShoCard-Whitepaper-Dec13-2.pdf)
+ 
 ## Magento Resources :
 - Magento2 installation on Linux (https://cloudkul.com/blog/magento-2-1-x-installation-linux-ubuntu/)
 - Magmi Importer (https://aionhill.com/product-import-magmi)
