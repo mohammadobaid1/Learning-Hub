@@ -91,7 +91,7 @@
 -https://hackernoon.com/why-the-crypto-dream-does-not-work-for-now-f561fc21784
 - crypto-trader's diary (https://hackernoon.com/crypto-traders-diary/home)
 - Do you really need a blockchain for that ? (https://coincenter.org/entry/do-you-really-need-a-blockchain-for-that)
-
+-  Why big 4 tech companies should breakup (https://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/)
 
 ## Videos :
 Dan Larimer: EOS - The Decentralized Operating System (https://www.youtube.com/watch?v=eftctVXiFJQ)
