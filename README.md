@@ -55,6 +55,10 @@
 - Bitcoin tools to gather some stats (https://github.com/sr-gi/bitcoin_tools/tree/dev)
 - Realtime bitcoin node stats (https://statoshi.info/)
 - Shoecard whitepaper (http://shocard.com/wp-content/uploads/2018/01/ShoCard-Whitepaper-Dec13-2.pdf)
+- Building raw bitcoin transactions(sheriff blog)(http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
+- Building raw transaction part1 and part2 (https://klmoney.wordpress.com/bitcoin-dissecting-transactions-part-1/)
+- Bitcoin base58 check encoding and decoding (http://lenschulwitz.com/base58)
+- 
  
 ## Magento Resources :
 - Magento2 installation on Linux (https://cloudkul.com/blog/magento-2-1-x-installation-linux-ubuntu/)
@@ -82,6 +86,8 @@
 - https://gitter.im/WebOfTrustInfo/rebooting-the-web-of-trust  (Proposals and catalogue related to building web of trust)
 - Hyperledger blockchain devs chat (https://chat.hyperledger.org/)
 - Openzeppelin chatroom (https://slack.openzeppelin.org/)
+- Angular-material2 (https://gitter.im/angular/material2)
+- 
 
 ## Git :
 - Change remote url of repository (https://confluence.atlassian.com/bitbucket/change-the-remote-url-to-your-repository-794212774.html)
@@ -93,7 +99,7 @@
 - crypto-trader's diary (https://hackernoon.com/crypto-traders-diary/home)
 - Do you really need a blockchain for that ? (https://coincenter.org/entry/do-you-really-need-a-blockchain-for-that)
 -  Why big 4 tech companies should breakup (https://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/)
-
+- Thinking shallow and deep (https://medium.com/personal-growth/thinking-shallow-and-deep-9932f208470b)
 ## Videos :
 Dan Larimer: EOS - The Decentralized Operating System (https://www.youtube.com/watch?v=eftctVXiFJQ)
 
