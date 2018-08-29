@@ -58,7 +58,8 @@
 - Building raw bitcoin transactions(sheriff blog)(http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
 - Building raw transaction part1 and part2 (https://klmoney.wordpress.com/bitcoin-dissecting-transactions-part-1/)
 - Bitcoin base58 check encoding and decoding (http://lenschulwitz.com/base58)
-- 
+- Common tools used in ethereum ecosystem (https://medium.com/blockchannel/tools-and-technologies-in-the-ethereum-ecosystem-e5b7e5060eb9)
+- Ethereum Naming system (https://now.ens.domains)
  
 ## Magento Resources :
 - Magento2 installation on Linux (https://cloudkul.com/blog/magento-2-1-x-installation-linux-ubuntu/)
