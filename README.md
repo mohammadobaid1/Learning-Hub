@@ -60,6 +60,7 @@
 - Bitcoin base58 check encoding and decoding (http://lenschulwitz.com/base58)
 - Common tools used in ethereum ecosystem (https://medium.com/blockchannel/tools-and-technologies-in-the-ethereum-ecosystem-e5b7e5060eb9)
 - Ethereum Naming system (https://now.ens.domains)
+- How ethereum works (deep technical level) (https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) 
  
 ## Magento Resources :
 - Magento2 installation on Linux (https://cloudkul.com/blog/magento-2-1-x-installation-linux-ubuntu/)
