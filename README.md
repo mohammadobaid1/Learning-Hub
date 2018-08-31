@@ -61,6 +61,7 @@
 - Common tools used in ethereum ecosystem (https://medium.com/blockchannel/tools-and-technologies-in-the-ethereum-ecosystem-e5b7e5060eb9)
 - Ethereum Naming system (https://now.ens.domains)
 - How ethereum works (deep technical level) (https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) 
+
  
 ## Magento Resources :
 - Magento2 installation on Linux (https://cloudkul.com/blog/magento-2-1-x-installation-linux-ubuntu/)
@@ -102,6 +103,7 @@
 - Do you really need a blockchain for that ? (https://coincenter.org/entry/do-you-really-need-a-blockchain-for-that)
 -  Why big 4 tech companies should breakup (https://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/)
 - Thinking shallow and deep (https://medium.com/personal-growth/thinking-shallow-and-deep-9932f208470b)
+- Basic understanding of Elliptic-curve cryptography  (https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
 ## Videos :
 Dan Larimer: EOS - The Decentralized Operating System (https://www.youtube.com/watch?v=eftctVXiFJQ)
 
