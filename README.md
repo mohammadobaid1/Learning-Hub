@@ -61,7 +61,7 @@
 - Common tools used in ethereum ecosystem (https://medium.com/blockchannel/tools-and-technologies-in-the-ethereum-ecosystem-e5b7e5060eb9)
 - Ethereum Naming system (https://now.ens.domains)
 - How ethereum works (deep technical level) (https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) 
-
+- Proof of stake and its variations (https://hackernoon.com/a-primer-on-proof-of-stake-and-why-it-matters-for-the-future-of-blockchains-48764373d4b1)
  
 ## Magento Resources :
 - Magento2 installation on Linux (https://cloudkul.com/blog/magento-2-1-x-installation-linux-ubuntu/)
