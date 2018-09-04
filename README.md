@@ -105,7 +105,8 @@
 - Thinking shallow and deep (https://medium.com/personal-growth/thinking-shallow-and-deep-9932f208470b)
 - Basic understanding of Elliptic-curve cryptography  (https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
 ## Videos :
-Dan Larimer: EOS - The Decentralized Operating System (https://www.youtube.com/watch?v=eftctVXiFJQ)
+- Dan Larimer: EOS - The Decentralized Operating System (https://www.youtube.com/watch?v=eftctVXiFJQ)
+- Devcon1 ethereum talk (https://www.youtube.com/watch?v=gjwr-7PgpN8)
 
 
 
