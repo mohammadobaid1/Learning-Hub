@@ -63,6 +63,8 @@
 - How ethereum works (deep technical level) (https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) 
 - Proof of stake and its variations (https://hackernoon.com/a-primer-on-proof-of-stake-and-why-it-matters-for-the-future-of-blockchains-48764373d4b1)
 - Blockchain  scaling solutions (https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
+- Ethereum sharding (https://medium.com/@icebearhww/ethereum-sharding-and-finality-65248951f649)
+- Sharding mindmap (https://www.mindomo.com/mindmap/sharding-d7cf8b6dee714d01a77388cb5d9d2a01)
  
 ## Magento Resources :
 - Magento2 installation on Linux (https://cloudkul.com/blog/magento-2-1-x-installation-linux-ubuntu/)
