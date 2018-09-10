@@ -110,6 +110,7 @@
 ## Videos :
 - Dan Larimer: EOS - The Decentralized Operating System (https://www.youtube.com/watch?v=eftctVXiFJQ)
 - Devcon1 ethereum talk (https://www.youtube.com/watch?v=gjwr-7PgpN8)
+- Money crypto vs tech crypto (https://www.atrium.co/blog/money-tech-crypto/)
 
 
 
