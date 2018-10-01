@@ -22,6 +22,8 @@
 - Angular online editor (https://stackblitz.com/)
 - Angular chromedev tool (https://augury.angular.io/)
 - ngx-datatable (https://swimlane.gitbook.io/ngx-datatable/themeing)
+- Npx package runner (https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
+
 ## Useful Packages:
 -  Sublime 3 custom themes  (https://packagecontrol.io/packages/Colorsublime)
 
