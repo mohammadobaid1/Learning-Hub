@@ -23,7 +23,7 @@
 - Angular chromedev tool (https://augury.angular.io/)
 - ngx-datatable (https://swimlane.gitbook.io/ngx-datatable/themeing)
 - Npx package runner (https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
-
+- Quick introduction to javascript (Great for interviews !) (https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 ## Useful Packages:
 -  Sublime 3 custom themes  (https://packagecontrol.io/packages/Colorsublime)
 
