@@ -99,6 +99,7 @@
 
 ## Git :
 - Change remote url of repository (https://confluence.atlassian.com/bitbucket/change-the-remote-url-to-your-repository-794212774.html)
+- Git expert guide  (https://medium.freecodecamp.org/how-to-become-a-git-expert-e7c38bf54826)
 
 ## General Blogs :
 - Vitalik on cryptoeconomics (https://medium.com/conversations-with-tyler/vitalik-buterin-tyler-cowen-cryptocurrency-blockchain-tech-3a2b20c12c97)
